@@ -19,6 +19,20 @@
       ],
       "ast": [
         "aggregate/ast/d798057e93c85198121cfd6ebf70a529559d38e6/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/d798057e93c85198121cfd6ebf70a529559d38e6.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "supermemory",
+          "ecosystem": "PYPI",
+          "version": "3.50.0",
+          "githubOrg": "supermemoryai",
+          "githubRepo": "python-sdk",
+          "githubCommit": "7879cf307212695a95e3c0c97072dbae91cd8156",
+          "githubTag": "v3.50.0",
+          "githubUrl": "https://github.com/supermemoryai/python-sdk",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
