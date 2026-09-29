@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "hermes-plugin-supermemory",
+  "versions": [
+    {
+      "commit": "d798057e93c85198121cfd6ebf70a529559d38e6",
+      "tag": "main",
+      "parsed_at": "2026-09-29T08:31:26.185977+00:00"
+    }
+  ]
+}
