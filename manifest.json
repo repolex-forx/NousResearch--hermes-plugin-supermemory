@@ -33,7 +33,9 @@
           "githubUrl": "https://github.com/supermemoryai/python-sdk",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/d798057e93c85198121cfd6ebf70a529559d38e6/chunk-001.nq.gz",
+      "dep": "dep/d798057e93c85198121cfd6ebf70a529559d38e6.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
