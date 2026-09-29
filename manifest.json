@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "hermes-plugin-supermemory",
+  "versions": [
+    {
+      "commit": "d798057e93c85198121cfd6ebf70a529559d38e6",
+      "parsed_at": "2026-09-29T08:25:10.205347+00:00",
+      "tag": "main",
+      "filetree": "filetree/d798057e93c85198121cfd6ebf70a529559d38e6.nq.gz",
+      "blobs": [
+        "blob/75410e73319c72cd3e991a501c5455eb78f38375.nq.gz",
+        "blob/2dec58811051262f41b4490fd5577d160ae717ab.nq.gz",
+        "blob/b253c1962d6089ba37ce6e509a811f46e935247a.nq.gz",
+        "blob/00f2d38d8063d0c6b219c0081e51888063b0c55e.nq.gz",
+        "blob/5f763782deab5e35a1c55bec7e1b42a5371dffb2.nq.gz",
+        "blob/afb2cf0f483cbb81b21adcadfde67d9b8fa423d5.nq.gz",
+        "blob/fa265a6636f5ba2869044f6a5ca89e20f97abd8e.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
